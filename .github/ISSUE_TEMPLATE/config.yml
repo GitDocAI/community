@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ask a Question
+    url: https://github.com/GitDocAI/community/discussions/categories/q-a
+    about: Ask questions and get help from the community
+  - name: Share an Idea
+    url: https://github.com/GitDocAI/community/discussions/categories/ideas
+    about: Suggest new features or improvements
+  - name: General Discussion
+    url: https://github.com/GitDocAI/community/discussions
+    about: Join general discussions about GitDocAI
